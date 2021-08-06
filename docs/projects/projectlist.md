@@ -38,7 +38,7 @@ Moorings are expensive and lack long term overage. Deep water oceanography is im
 
 ## Pull all ocean repositories in the world to be able to subset
 
-- Project leads: Steve
+- Project leads: Steve, Myranda
 - Presenter:
 - GitHub: [https://github.com/oceanhackweek/metadata-repository ??](https://github.com/oceanhackweek/metadata-repository)
 
